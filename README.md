@@ -1,4 +1,4 @@
-# SageProto: Mitigating Class-Wise Learning Disparity in Semi-Supervised Multi-Organ Segmentation
+## SageProto: Mitigating Class-Wise Learning Disparity in Semi-Supervised Multi-Organ Segmentation
 
 #### [📌] The full implementation details will be released upon acceptance.
 
